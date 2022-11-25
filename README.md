@@ -86,9 +86,9 @@
 ※ 삼겹살의 경우 기준g이 각기 달라 비교하기 어려움이 있어 제외<br>
 ※ 삼계탕의 경우 비교대상이 없거나 적어서 제외
 
-<p align="left"><img src="https://user-images.githubusercontent.com/72624263/186876207-96ab37c3-dd2e-4da1-a9e8-28cdb1892fa7.png" width="60%" height="60%"/>
-<p align="left"><img src="https://user-images.githubusercontent.com/72624263/186899489-00fea58f-d86e-4a1c-852c-f74016a13c60.png" width="60%" height="60%"/>
-<p align="left"><img src="https://user-images.githubusercontent.com/72624263/186899510-5ad9c07d-e55a-44d6-911b-80d18b97818f.png" width="60%" height="60%"/>
+<img src="https://user-images.githubusercontent.com/72624263/186876207-96ab37c3-dd2e-4da1-a9e8-28cdb1892fa7.png" width="40%" height="40%"/>
+<img src="https://user-images.githubusercontent.com/72624263/186899489-00fea58f-d86e-4a1c-852c-f74016a13c60.png" width="40%" height="40%"/>
+<img src="https://user-images.githubusercontent.com/72624263/186899510-5ad9c07d-e55a-44d6-911b-80d18b97818f.png" width="40%" height="40%"/>
 
 ---
 
@@ -101,7 +101,7 @@
 
 ### 📊 각 행정구별 착한가게업소 맵매핑
 
-<p align="left"><img src="https://user-images.githubusercontent.com/72624263/186719775-6b3cf5f3-0110-4b29-9936-34045ed48b71.png" width="60%" height="60%"/>
+<p align="left"><img src="https://user-images.githubusercontent.com/72624263/186719775-6b3cf5f3-0110-4b29-9936-34045ed48b71.png" width="80%" height="80%"/>
 
 
 
